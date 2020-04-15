@@ -1,0 +1,113 @@
+{"recipes":
+[
+    {
+        "name": "Crock Pot Roast",
+        "ingredients": ["beef roast",
+                "brown gravy mix",
+                "dried Italian salad dressing mix",
+                "dry ranch dressing mix",
+                "water"],
+        "imageURL": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/27/20/8/picVfzLZo.jpg"
+    },
+    {
+        "name": "Roasted Asparagus",
+        "ingredients": [" asparagus",
+			"olive oil",
+			"kosher salt"
+        		],
+        "imageURL": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/50/84/7/picMcSyVd.jpg"
+    },
+    {
+        "name": "Curried Lentils and Rice",
+        "ingredients": ["beef broth",
+			"dried green lentils",
+			"basmati rice",
+			"curry powder",
+			"salt"
+        		],
+        "imageURL": "http://dagzhsfg97k4.cloudfront.net/wp-content/uploads/2012/05/lentils3.jpg"
+    },
+    {
+        "name": "Big Night Pizza",
+        "ingredients": ["yeast",
+			"flour",
+			"vegetable oil",
+			"sugar",
+			"salt",
+			"hot water",
+			"pizza sauce",
+			"mozzarella cheese"
+        		],
+        "imageURL": "http://upload.wikimedia.org/wikipedia/commons/c/c7/Spinach_pizza.jpg"
+    },
+    {
+        "name": "Cranberry and Apple Stuffed Acorn Squash Recipe",
+        "ingredients": ["acorn squash",
+			"boiling water",
+			"apples chopped into 1.4 inch pieces",
+			"dried cranberries",
+			"cinnamon",
+			"melted butter"
+        		],
+        "imageURL": "http://elanaspantry.com/wp-content/uploads/2008/10/acorn_squash_with_cranberry.jpg"
+    },
+    {
+        "name": "Mic's Yorkshire Puds",
+        "ingredients": ["plain flour",
+			"eggs",
+			"milk",
+			"vegetable oil"
+        		],
+        "imageURL": "http://upload.wikimedia.org/wikipedia/commons/f/f9/Yorkshire_Pudding.jpg"
+    },
+    {
+        "name": "Old-Fashioned Oatmeal Cookies",
+        "ingredients": ["raisins",
+			"cup water",
+			"shortening",
+			"sugar",
+			"flour",
+			"soda",
+			"salt",
+			"cinnamon",
+			"baking powder",
+			"cloves",
+			"oats",
+			"chopped nuts"
+        		],
+        "imageURL": "http://s3.amazonaws.com/gmi-digital-library/65caecf7-a8f7-4a09-8513-2659cf92871e.jpg"
+    },
+    {
+        "name": "Blueberry Oatmeal Squares",
+        "ingredients": ["rolled oats",
+			"all-purpose flour",
+			"grated orange rind",
+			"salt",
+			"cold butter, cubed",
+			"packed brown sugar",
+			"fresh blueberries",
+			"granulated sugar",
+			"orange juice",
+			"cornstarch"
+        ],
+        "imageURL": "http://www.canadianliving.com/img/photos/biz/blueberry-oatmeal-squares5801359401371.jpg"
+    },
+    {
+        "name": "Curried chicken salad",
+        "ingredients": ["skinless, boneless chicken breasts, halved lengthwise",
+			"mayonnaise",
+			"lemon zest",
+			"lemon juice",
+			"curry powder",
+			"salt",
+			"ripe mangoes, diced",
+			"dried cranberries",
+			"green onions, thinly sliced",
+			"celery stalk, finely chopped",
+			"Boston lettuce",
+			"English muffins, toasted"
+        		],
+        "imageURL": "http://www.chatelaine.com/wp-content/uploads/2013/05/Curried-chicken-salad.jpg"
+    }
+]
+}
